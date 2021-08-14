@@ -1,1 +1,1 @@
-This is a repository containing information meant for students.
+This is a repository containing information meant for participants of FMML-2021.
