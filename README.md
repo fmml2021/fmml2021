@@ -19,6 +19,6 @@ Contribution of features to the disease:
 |Blood Sugar| 0.002|
 |Pollutant Level| 0.02|
 
-The high-risk people are those whose sum total of each of the weighted features are above 4.0
+The high-risk people are those whose "weighted-sum of all features" falls above 4.0
 
 FMML team members are required to develop a prototype that works, as soon as possible, and host it on their personal GitHub account.
