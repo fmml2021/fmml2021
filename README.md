@@ -5,7 +5,7 @@ A few features that contribute to risk, has been identified alongwith their exte
 
 The data given is as such:
 
-|Citizen ID | Age | Sugar Level (BLood) | Pollutant Level (Air) |
+|Citizen ID | Age | Sugar Level (Blood) | Pollutant Level (Air) |
 |-----|-----|----|----|
 |AAA| 20 | 122 | 20 |
 |AAB |35 | 180 | 35|
