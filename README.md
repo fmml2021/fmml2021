@@ -21,4 +21,4 @@ Contribution of features to the disease:
 
 The high-risk people are those whose "weighted-sum of all features" falls above 4.0
 
-FMML team members are required to develop a prototype that works, as soon as possible, and host it on their personal GitHub account.
+FMML team members are required to develop a prototype that works, as soon as possible, and host it on their personal GitHub account. The input data would be a set of features for citizens of Madagascar.
