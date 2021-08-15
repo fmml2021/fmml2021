@@ -1,4 +1,6 @@
-The case at Madagascar. People are falling sick due to Covid 19 and the government wants to vaccinate the citizens who are at highest risk, on priority.
+The case at Madagascar. 
+
+People are falling sick due to Covid 19 and the government wants to vaccinate the citizens who are at highest risk, on priority.
 A few features that contribute to risk, has been identified alongwith their extent of contribution. The risk factors are to be calculated and measured against a threshold value. All citizens who score beyond this threshold value are to be categorised as Risk-Prone.
 
 The data given is as such:
@@ -9,3 +11,14 @@ The data given is as such:
 |AAB |35 | 180 | 35|
 |ACA | 50 | 220 | 65|
 |ABB | 70 | 300 | 30 |
+
+Contribution of features to the disease:
+|Feature| Weight|
+|---|---|
+|Age| 0.05|
+|Blood Sugar| 0.002|
+|Pollutant Level| 0.02|
+
+The high-risk people are those whose sum total of each of the weighted features are above 4.0
+
+FMML team are required to develop a prototype that works, as soon as possible.
