@@ -21,4 +21,4 @@ Contribution of features to the disease:
 
 The high-risk people are those whose sum total of each of the weighted features are above 4.0
 
-FMML team are required to develop a prototype that works, as soon as possible.
+FMML team members are required to develop a prototype that works, as soon as possible.
